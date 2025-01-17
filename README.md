@@ -1,5 +1,9 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+<pre align="center">
+    <strong>👨‍💻 Denys Dovhan</strong> | <a href="https://denysdovhan.com">Homepage</a> | <a href="https://x.com/denysdovhan">Twitter (x.com)</a> | <a href="https://bsky.app/profile/denysdovhan.com">Bluesky</a> | <a href="https://www.linkedin.com/in/denysdovhan">LinkedIn</a>
+</pre>
+
 <!--
 **denysdovhan/denysdovhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
