@@ -18,5 +18,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: denysdovhan
           template: classic
+<<<<<<< HEAD
           # base: header, activity, community, repositories, metadata
+=======
+          base: header, activity, community, repositories, metadata
+>>>>>>> 665383a919bf120d57b1ead8d33f95e816507daa
           filename: github-metrics.svg
