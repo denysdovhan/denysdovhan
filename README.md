@@ -4,6 +4,13 @@
     <strong>👨‍💻 Denys Dovhan</strong> | <a href="https://denysdovhan.com">Homepage</a> | <a href="https://x.com/denysdovhan">Twitter (x.com)</a> | <a href="https://bsky.app/profile/denysdovhan.com">Bluesky</a> | <a href="https://www.linkedin.com/in/denysdovhan">LinkedIn</a>
 </pre>
 
+<img src="https://raw.githubusercontent.com/denysdovhan/denysdovhan/main/github-metrics.svg" alt="GitHub Metrics" align="right" />
+
+I work as a **Software Engineer** at [Wix.com](https://wix.com).
+
+My area of interest includes **frontend, open-source, developer tools, homelab, smart-home automations and self-hosted applications**.
+
+<!-- style="width: 400px" -->
 <!--
 **denysdovhan/denysdovhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
