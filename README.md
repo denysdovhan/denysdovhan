@@ -8,9 +8,9 @@
 
 I work as a **Software Engineer** at [Wix.com](https://wix.com).
 
-My area of interest includes **`frontend`, `open-source`, `devtools`, `homelab`, `smart-home` automations and `self-hosted` applications**.
+My area of interest includes `frontend`, `open-source`, `devtools`, `homelab`, `smart-home` automations and `self-hosted` applications.
 
-I contribute to the community in a form of **open-source projects, public speaking, organizing conferences, meetups, and workshops, writing articles and tutorials**.
+I contribute to the community in a form of open-source projects, public speaking, organizing conferences, meetups, and workshops, writing articles and tutorials.
 
 <!--
 **denysdovhan/denysdovhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
