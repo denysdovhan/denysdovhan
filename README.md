@@ -10,6 +10,8 @@ I work as a **Software Engineer** at [Wix.com](https://wix.com).
 
 My area of interest includes `frontend`, `open-source`, `devtools`, `homelab`, `smart-home` automations and `self-hosted` applications.
 
+At work, I specialize in developing and configuring tools for frontend development. At home, I am building my own smart home with home automations, media services and tools to make my life easier.
+
 I contribute to the community in a form of open-source projects, public speaking, organizing conferences, meetups, and workshops, writing articles and tutorials.
 
 <!--
