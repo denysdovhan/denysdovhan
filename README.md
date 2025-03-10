@@ -1,7 +1,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <pre align="center">
-    <strong>👨‍💻 Denys Dovhan</strong> | <a href="https://denysdovhan.com">Homepage</a> | <a href="https://x.com/denysdovhan">Twitter (x.com)</a> | <a href="https://bsky.app/profile/denysdovhan.com">Bluesky</a> | <a href="https://www.linkedin.com/in/denysdovhan">LinkedIn</a>
+    <strong>👨‍💻 Denys Dovhan</strong> | <a href="https://denysdovhan.com">Homepage</a> | <a href="https://x.com/denysdovhan">X (Twitter)</a> | <a href="https://t.me/den_the_dev">Telegram (🇺🇦)</a> | <a href="https://bsky.app/profile/denysdovhan.com">Bluesky</a> | <a href="https://www.linkedin.com/in/denysdovhan">LinkedIn</a>
 </pre>
 
 <img src="https://raw.githubusercontent.com/denysdovhan/denysdovhan/main/github-metrics.svg" alt="GitHub Metrics" align="right" width="400px" />
